@@ -21,7 +21,7 @@ Welcome to the **Razorpay Payment Integration** project! This project demonstrat
 - Responsive design with Tailwind CSS
 
 ---
-
+![First loading Page](https://github.com/ashish8513/Razorpay-Payment-Tutorial/blob/main/image.png)
 ```bash
 
 💻 Contributing
