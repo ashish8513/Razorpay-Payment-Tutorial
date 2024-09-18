@@ -7,7 +7,7 @@ const Home = (ashish) => {
     const {
       data: { key },
     } ;
-
+//Bro,don't copy-paste. Try to do it yourself. Best of luck!
     const {
       data: { order },
     } ,{
