@@ -23,8 +23,11 @@ Welcome to the **Razorpay Payment Integration** project! This project demonstrat
 ---
 
 <p align="center"> <img src="https://github.com/ashish8513/Razorpay-Payment-Tutorial/blob/main/image.png" alt="Razorpay Integration Screenshot" width="500"/> </p>
+
+
+<p align="center"> <img src="https://github.com/ashish8513/Razorpay-Payment-Tutorial/blob/main/payment%20sucessful.png" alt="Razorpay Integration Screenshot" width="500"/> </p>
  
-![First loading Page](https://github.com/ashish8513/Razorpay-Payment-Tutorial/blob/main/payment%20sucessful.png)
+
 ```bash
 
 💻 Contributing
