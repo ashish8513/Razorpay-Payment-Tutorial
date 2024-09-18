@@ -2,15 +2,15 @@ import React from "react";
 import Card from "./Card";
 import axios from "axios";
 
-const Home = () => {
+const Home = (ashish) => {
   const checkoutHandler = async (amount) => {
     const {
       data: { key },
-    } = await axios.get("http://www.localhost:4000/api/getkey");
+    } ;
 
     const {
       data: { order },
-    } = await axios.post("http://localhost:4000/api/checkout", {
+    } ,{
       amount,
     });
 
@@ -47,14 +47,6 @@ const Home = () => {
           img={
             "http://i1.adis.ws/i/canon/eos-r5_front_rf24-105mmf4lisusm_32c26ad194234d42b3cd9e582a21c99b"
           }
-          checkoutHandler={checkoutHandler}
-        />
-        <Card
-          amount={3000}
-          img={
-            "http://i1.adis.ws/i/canon/eos-r5_front_rf24-105mmf4lisusm_32c26ad194234d42b3cd9e582a21c99b"
-          }
-          checkoutHandler={checkoutHandler}
         />
       </div>
     </div>
